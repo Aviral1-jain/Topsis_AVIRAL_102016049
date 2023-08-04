@@ -51,6 +51,7 @@ pip install Topsis-AVIRAL-102016049
    
    
    ### Sample Input CSV
+   
    #
    | Fund Name | P1 | P2 | P3 | P4 | P5 |
    | ------ | ------ | ------ |------ |------ |------ |
@@ -64,6 +65,7 @@ pip install Topsis-AVIRAL-102016049
    | M8 | 0.94 | 0.88 | 5.1 | 44.5 | 12.86 |
    
    ### Sample Output CSV File
+   
    ### For weights "1,1,1,1,1" and impacts "+,-,+,-,+"
    #
    | Fund Name | P1 | P2 | P3 | P4 | P5 | Topsis Score | Rank |
@@ -76,4 +78,15 @@ pip install Topsis-AVIRAL-102016049
    | M6 | 0.79 | 0.62 | 5.5 | 56.5 | 15.85 | 0.5446234 | 2 |
    | M7 | 0.82 | 0.67 | 5.1 | 53.6 | 15.05 | 0.48796329 | 7 |
    | M8 | 0.94 | 0.88 | 5.1 | 44.5 | 12.86 | 0.4227203 | 8 |
+
+
+
+   ## Running
    
+   ![Landing Page](Images/homepage.png)
+
+   ![](Images/landingpage.png)
+
+   ![Results](Images/result.png)
+   
+   ## 🚀 An email will be sent to your filled email address with Results
