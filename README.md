@@ -89,4 +89,4 @@ pip install Topsis-AVIRAL-102016049
 
    ![Results](Images/result.png)
    
-   ## 🚀 An email will be sent to your filled email address with Results
+   ## 🚀 An email will be sent to the user with Results (Topsis Result File)
